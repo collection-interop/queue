@@ -1,0 +1,14 @@
+{
+    "name": "collection-interop/queue",
+    "description": "An interface describing the behaviours of a 'queue' abstract data type (ADT).",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan Bishop",
+            "email": "nbish11@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    }
+}
